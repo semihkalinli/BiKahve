@@ -1,0 +1,153 @@
+body{
+    height:100%;
+    overflow: no-display;
+    width: 100%;
+    color: #777777;
+    font-family: "Poppins", sans-serif!important;
+    font-size: 18px!important;
+    font-weight: 300!important;
+    line-height: 1.625em!important;
+
+}
+
+.navbar {
+    background-color: #795548;
+}
+footer{
+background-color: #1c2331!important;
+}
+footer.page-footer {
+    bottom: 0;
+    color: #fff;
+}
+footer.page-footer a {
+    color: #fff;
+}
+.deep-purple.accent-2 {
+    background-color: #7c4dff!important;
+}
+footer.page-footer .footer-copyright {
+    overflow: hidden;
+    background-color: rgba(0,0,0,.2);
+    color: rgba(255,255,255,.6);
+}
+.single-menu {
+    background-color: #fff;
+    box-shadow: 0px 10px 30px 0px rgba(182, 136, 52, 0.2);
+    border-radius: 10px;
+    padding: 30px 30px;
+    margin-bottom: 30px;
+}
+
+.menu-area {
+    background: url(../images/menu-bg.jpg) center;
+    background-size: cover;
+}
+
+.single-menu .title-div {
+    padding-bottom: 20px;
+}
+
+.single-menu .price {
+    color: #b68834;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.single-menu p {
+    margin-bottom: 0;
+}
+
+.page-footer {
+    color: #fff;
+    background: url(../images/footer-bg.jpg) center;
+    background-size: cover;
+}
+
+.map-container-7{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.map-container-7 iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+
+.section-gap {
+    padding-top: 6%;
+}
+.section-gap-header {
+     padding: 0;
+ }
+.section-gap-coffe {
+    padding: 110px 0px;
+}
+
+.section-title {
+    padding-bottom: 30px;
+}
+
+.section-title h2 {
+    margin-bottom: 20px;
+}
+
+.section-title p {
+    font-size: 16px;
+    margin-bottom: 0;
+}
+h1, h2, h3,
+h4, h5, h6 {
+    font-family: "Poppins", sans-serif !important;
+    color: #222222;
+    line-height: 1.2em !important;
+    margin-bottom: 0;
+    margin-top: 0;
+    font-weight: 600!important;
+}
+.h1, .h2, .h3,
+.h4, .h5, .h6 {
+    margin-bottom: 0;
+    margin-top: 0;
+    font-family: "Poppins", sans-serif !important;
+    font-weight: 600 !important;
+    color: #222222;
+}
+
+h1, .h1 {
+    font-size: 36px!important;
+}
+
+h2, .h2 {
+    font-size: 30px!important;
+}
+
+h3, .h3 {
+    font-size: 24px!important;
+}
+
+h4, .h4 {
+    font-size: 18px!important;
+}
+
+h5, .h5 {
+    font-size: 16px!important;
+}
+
+h6, .h6 {
+    font-size: 14px!important;
+    color: #222222;
+}
+
+td, th {
+    border-radius: 0px;
+}
+@media (max-width: 991.98px) {
+    .section-title p br {
+        display: none;
+    }
+}
